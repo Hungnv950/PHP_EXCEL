@@ -1,0 +1,22 @@
+OC.L10N.register("comment",{
+    "Type in a new comment...": "Đánh bình luận mới…",
+    "Delete comment": "Xóa bình luận",
+    "Post": "Bài đăng",
+    "Cancel": "Hủy",
+    "Edit comment": "Chỉnh sửa bình luận",
+    "[Deleted user]": "[Người dùng đã xóa]",
+    "Comments": "Bình luận",
+    "No other comments available": "Chưa có bình luận",
+    "More comments...": "Xem thêm bình luận…",
+    "Save": "Lưu",
+    "Allowed characters {count} of {max}": "Cho phép ký tự {count} của {max}",
+    "Error occurred while retrieving comment with id {id}": "Xảy ra lỗi khi truy xuất các bình luận với id {id}",
+    "Error occurred while updating comment with id {id}": "Xảy ra lỗi khi cập nhật các bình luận với id {id}",
+    "Error occurred while posting comment": "Xảy ra lỗi khi đăng bình luận ",
+    "{count} unread comments": "{count} bình luận chưa đọc",
+    "Comment": "Bình luận",
+    "<strong>Comments<\/strong> for files <em>(always listed in stream)<\/em>": "<strong>Bình luận<\/strong> cho tập tin <em>(luôn sắp xếp theo dòng chảy)<\/em>",
+    "You commented": "Bạn đã bình luận",
+    "%1$s commented": "%1$s đã bình luận",
+    "You commented on %2$s": "Bình luận của bạn về %2$s"
+},"nplurals=1; plural=0;");

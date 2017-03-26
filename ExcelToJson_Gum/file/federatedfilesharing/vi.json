@@ -1,0 +1,26 @@
+{
+    "translations": {
+        "Federated sharing": "Chia sẻ tổ hợp",
+        "Invalid Federated Cloud ID": "ID Đám mây tổ hợp không hợp lệ",
+        "Sharing %s failed, because this item is already shared with %s": "Chia sẻ %s thất bại, vì danh mục này đã được chia sẻ với %s",
+        "Not allowed to create a federated share with the same user": "Không được phép tạo chia sẻ tổ hợp với cùng người dùng",
+        "File is already shared with %s": "Tập tin đã được chia sẻ với %s",
+        "Sharing %s failed, could not find %s, maybe the server is currently unreachable.": "Chia sẻ %s thất bại, không tìm thấy %s, có thể máy chủ hiện tại không thể vào được",
+        "You received \"\/%3$s\" as a remote share from %1$s (on behalf of %2$s)": "Bạn đã nhận được \"\/%3$s\" là chia sẻ từ xa của %1$s (đại diện cho %2$s)",
+        "You received \"\/%3$s\" as a remote share from %1$s": "Bạn đã nhận được \"\/%3$s\" là chia sẻ từ xa của %1$s ",
+        "Accept": "Chấp nhận",
+        "Decline": "Từ chối",
+        "Share with me through my #ownCloud Federated Cloud ID, see %s": "Chia sẻ với tôi thông qua #ownCloud Federated Cloud ID, xem %s",
+        "Share with me through my #ownCloud Federated Cloud ID": "Chia sẻ với tôi thông qua #ownCloud Federated Cloud ID",
+        "Federated Cloud Sharing": "Chia sẻ đám mây tổ hợp",
+        "Open documentation": "Tài liệu mở",
+        "Allow users on this server to send shares to other servers": "Cho phép người dùng trên máy chủ này có thể gửi chia sẻ đến máy chủ khác",
+        "Allow users on this server to receive shares from other servers": "Cho phép người dùng trên máy chủ này có thể nhận chia sẻ từ máy chủ khác",
+        "Federated Cloud": "Đám mây tổ hợp",
+        "Your Federated Cloud ID:": "ID Đám mây tổ hợp của bạn",
+        "Share it:": "Chia sẻ:",
+        "Add to your website": "Thêm vào trang web của bạn",
+        "Share with me via ownCloud": "Chia sẻ với tôi thông qua ownCloud"
+    },
+    "pluralForm": "nplurals=1; plural=0;"
+}
